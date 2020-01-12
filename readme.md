@@ -13,7 +13,7 @@ sudo git clone https://github.com/lsdkk5/brainfuck.git
 ## Usage example
 
 > -o --output filename   /save output data to filename with .bf extension
-usage: brainfuck.py "your text here"
+> usage: brainfuck.py "your text here"
 
 ```sh
 chmod +x brainfuck.py
